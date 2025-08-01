@@ -18,7 +18,7 @@
 <!-- Skills -->
 <h2 align="center">🛠️ My Tools & Tech</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,php,java,spring,vue,js,html,css,mysql,git,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=laravel,php,java,spring,vue,js,html,css,mysql,git,vscode,linux" alt="Skills Icons"/>
 </p>
 
 ---
@@ -43,16 +43,16 @@
 
 ---
 
-<!-- GitHub Contributions Snake -->
-<h2 align="center">🐍 Contribution Snake</h2>
+<!-- Animated Lion -->
+<h2 align="center">🦁 King of the Jungle Mode: ON</h2>
 <p align="center">
-  <img src="https://github.com/abdou-dev/abdou-dev/blob/output/snake.svg" alt="snake gif" />
+  <img src="https://media.giphy.com/media/13CoXDiaCcCoyk/giphy.gif" width="300" alt="Lion Animation">
 </p>
 
 ---
 
-<!-- Quote -->
-<h2 align="center">💬 Dev Quote</h2>
+<!-- Dev Quote -->
+<h2 align="center">✍️ Dev Quote</h2>
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
 </p>
