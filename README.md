@@ -1,21 +1,58 @@
-I'm **Abdou Ben Hattab**, a passionate developer from Tunisia 🇹🇳
+<!-- Visitor Badge -->
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=abdou-dev.abdou-dev" alt="Visitor Badge"/>
+
+<!-- Animated Intro -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=007BFF&center=true&vCenter=true&width=800&lines=👋+Hey+there!;I'm+Abdou+Ben+Hattab,+a+passionate+developer+from+Tunisia+🇹🇳" alt="Typing SVG" />
+</h1>
+
+<!-- Cool Coding GIF -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400"/>
+</div>
+
+<h3 align="center">💻 Focused on Laravel, Java, and AI | 📍 Based in Tunisia 🌍</h3>
+
+---
+
+<!-- Skills -->
+<h2 align="center">🛠️ My Tools & Tech</h2>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=007BFF&center=true&vCenter=true&width=800&lines=I'm+Abdou+Ben+Hattab,+a+passionate+developer+from+Tunisia+🇹🇳" alt="Typing animation" />
+  <img src="https://skillicons.dev/icons?i=laravel,php,java,spring,vue,js,html,css,mysql,git,vscode,linux" />
 </p>
 
-![Coding](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)
+---
 
-<!--
-**AbdouBenHatttab/AbdoubenHatttab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- GitHub Stats -->
+<h2 align="center">📊 My GitHub Stats</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdou-dev&theme=tokyonight&show_icons=true" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=abdou-dev&theme=tokyonight" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdou-dev&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- GitHub Trophy -->
+<h2 align="center">🏆 GitHub Trophies</h2>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=abdou-dev&theme=gruvbox&no-frame=false&margin-w=10" />
+</p>
+
+---
+
+<!-- GitHub Contributions Snake -->
+<h2 align="center">🐍 Contribution Snake</h2>
+<p align="center">
+  <img src="https://github.com/abdou-dev/abdou-dev/blob/output/snake.svg" alt="snake gif" />
+</p>
+
+---
+
+<!-- Quote -->
+<h2 align="center">💬 Dev Quote</h2>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
