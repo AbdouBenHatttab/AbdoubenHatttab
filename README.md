@@ -3,7 +3,7 @@
 
 <!-- Animated Intro -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=007BFF&center=true&vCenter=true&width=800&lines=👋+Hey+there!;I'm+Abdou+Ben+Hattab,+a+passionate+developer+from+Tunisia+🇹🇳" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=007BFF&center=true&vCenter=true&width=700&lines=👋+Hey+there!;I'm+Abdou+Ben+Hattab,+a+passionate+developer+from+Tunisia+🇹🇳" alt="Typing SVG" />
 </h1>
 
 <!-- Cool Coding GIF -->
@@ -39,14 +39,6 @@
 <h2 align="center">🏆 GitHub Trophies</h2>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=abdou-dev&theme=gruvbox&no-frame=false&margin-w=10" />
-</p>
-
----
-
-<!-- Animated Lion -->
-<h2 align="center">🦁 King of the Jungle Mode: ON</h2>
-<p align="center">
-  <img src="https://media.giphy.com/media/13CoXDiaCcCoyk/giphy.gif" width="300" alt="Lion Animation">
 </p>
 
 ---
