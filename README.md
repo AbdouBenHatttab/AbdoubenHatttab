@@ -1,4 +1,8 @@
 I'm **Abdou Ben Hattab**, a passionate developer from Tunisia 🇹🇳
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=007BFF&center=true&vCenter=true&width=800&lines=I'm+Abdou+Ben+Hattab,+a+passionate+developer+from+Tunisia+🇹🇳" alt="Typing animation" />
+</p>
+
 ![Coding](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)
 
 <!--
