@@ -2,9 +2,12 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=abdou-dev.abdou-dev" alt="Visitor Badge"/>
 
 <!-- Animated Intro -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=007BFF&center=true&vCenter=true&width=700&lines=👋+Hey+there!;I'm+Abdou+Ben+Hattab,+a+passionate+developer+from+Tunisia+🇹🇳" alt="Typing SVG" />
-</h1>
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=007BFF&center=true&vCenter=true&width=700&lines=%F0%9F%91%8B+Hey+there!;I'm+Abdou+Ben+Hattab,+a+passionate+developer+from+Tunisia+%F0%9F%87%B9%F0%9F%87%BF"
+    alt="Typing SVG"
+  />
+</p>
 
 <!-- Cool Coding GIF -->
 <div align="center">
