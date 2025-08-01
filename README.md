@@ -4,7 +4,7 @@
 <!-- Animated Intro -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=007BFF&center=true&vCenter=true&width=700&lines=%F0%9F%91%8B+Hey+there!;I'm+Abdderrahmen+Ben+Hattab"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=007BFF&center=true&vCenter=true&width=700&lines=%F0%9F%91%8B+Hey+there!;I'm+Abderrahmen+Ben+Hattab"
     alt="Typing SVG"
   />
 </p>
