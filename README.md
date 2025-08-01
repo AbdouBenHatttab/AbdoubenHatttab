@@ -1,4 +1,5 @@
 ## Hi there 👋
+![Coding](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)
 
 <!--
 **AbdouBenHatttab/AbdoubenHatttab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
